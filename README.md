@@ -92,13 +92,13 @@ patrick@staight:~$ neofetch
 
 
   
- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=I+use+Arch+btw;C+programmer;programming+god+" alt="Typing SVG" /></a></p>
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=knows+C+CPP;also+knows+SQL+and+PHP;Arch+Linux+user" alt="Typing SVG" /></a></p>
   
   
 -----
 
-[![Skills](https://skillicons.dev/icons?i=arch,linux,c,neovim,vscode,git,github,githubactions)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=arch,linux,c,cpp,sql,python,neovim,vscode,git,github,githubactions)](https://skillicons.dev)
 
 ### Find me here
-[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1108456895502614550)
+[![dev](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/patrickstaight/)
 
