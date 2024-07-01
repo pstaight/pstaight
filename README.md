@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://github.com/NoiceFrog">
+  <a href="https://github.com/pstaight">
   <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
 ```console
-alex@archbtw:~$ neofetch
-                   -`                     ​​ ​ ​ ​ ​ ​ ​​     alex@archbtw 
+patrick@staight:~$ neofetch
+                   -`                     ​​ ​ ​ ​ ​ ​ ​​     patrick@staight 
                   .o+`                  ┌──────────────────────────────────────┐ 
                  `ooo/                    Operating System 
                 `+oooo:                   ​​ ​ os >​ Arch Linux 
@@ -17,12 +17,12 @@ alex@archbtw:~$ neofetch
             `/++++/+++++++:               ​ ​ os-ver >​ 6.9.3-arch1-1 
            `/++++++++++++++:              ​ ​ packages >​ 825 
           `/+++ooooooooooooo/`            Hardware 
-         ./ooosssso++osssssso+`           ​​ ​ cpu >​ i5-4670 
-        .oossssso-````/ossssss+`          ​​ ​ gpu >​ GeForce GTX 780 
+         ./ooosssso++osssssso+`           ​​ ​ cpu >​ intel Core i9-10900K 3.7GHz 
+        .oossssso-````/ossssss+`          ​​ ​ gpu >​ AMD Radeon RX 6700 XT 12GB 
        -osssssso.      :ssssssso.         ​​ ​ ram >​ 2.21GiB / 15.56GiB (14%) 
-      :osssssss/        osssso+++.        ​​ ​ screen >​ 1920x1080 @ 60.00Hz 
+      :osssssss/        osssso+++.        ​​ ​ screen >​ 3840x1080 @ 60.00Hz 
      /ossssssss/        +ssssooo/-        ETC 
-   `/ossssso+/:-        -:/+osssso+-      ​​ ​ spotify >​ Billie Eilish - ilomilo 
+   `/ossssso+/:-        -:/+osssso+-      ​​ ​ spotify >​ Shane Koyczan - To This Day 
   `+sso+:-`                 `.-/+oso:   └──────────────────────────────────────┘ 
  `++:.                           `-/+/
  .`                                 `/
@@ -35,8 +35,8 @@ alex@archbtw:~$ neofetch
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-  <a href="github.com/NoiceFrog" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=NoiceFrog&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+  <a href="github.com/pstaight" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=pstaight&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
  </samp>
@@ -52,25 +52,25 @@ alex@archbtw:~$ neofetch
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/NoiceFrog/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoiceFrog&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/pstaight/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pstaight&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="Noice :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/NoiceFrog/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoiceFrog&theme=gruvbox&layout=compact&hide_border=true"
-          alt="NoiceFrog :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoiceFrog&theme=gruvbox&layout=compact&hide_border=true"
-          alt="NoiceFrog :: Top Langs by commit" />
+          <a href="https://github.com/pstaight/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pstaight&theme=gruvbox&layout=compact&hide_border=true"
+          alt="pstaight :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pstaight&theme=gruvbox&layout=compact&hide_border=true"
+          alt="pstaight :: Top Langs by commit" />
           </a>
         </p>
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/NoiceFrog/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NoiceFrog&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NoiceFrog&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/pstaight/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pstaight&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pstaight&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -84,7 +84,7 @@ alex@archbtw:~$ neofetch
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NoiceFrog&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pstaight&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
