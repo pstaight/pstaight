@@ -1,6 +1,7 @@
-### Hi there! My name is Patrick Staight, i am a 44 year old father from Southern California with 8 years of work experience and i hope to get a job in computer science.
-### I have had multiple jobs in IT but i was having a rough time keeping up with the work.
-### I enventually gave up and got a job at the grocery store but thanks to @NoiceFrog i was able to get up and try again. He told me i have amazing coding skills and i shouldn't waste my time serving chicken to random people.
+### Hi there! My name is Patrick Staight.
+### I am a single father in his 40s from Southern California with 8 years of work experience. I'm activly looking to continue my career in the field.
+### I've had multiple jobs in Computer Science but the last few years have been rough.
+### I'm currently working at the grocery store to make ends meet. Thanks to @NoiceFrog I've updated this profile and put more work here. He told me I have amazing coding skills and I shouldn't waste my time serving chicken to random people.
 
 <div align="center">
   <a href="https://github.com/pstaight">
